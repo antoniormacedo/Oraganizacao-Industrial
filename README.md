@@ -11,7 +11,7 @@ Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/or
 <br>
 
 ## 13/03/2022 - Enquetes
-[Horário da Monitoria](https://github.com/antoniormacedo/Oraganizacao-Industrial/discussions/3#discussion-4946257)
+<!--[Horário da Monitoria](https://github.com/antoniormacedo/Oraganizacao-Industrial/discussions/3#discussion-4946257)-->
 
 <br>
 
