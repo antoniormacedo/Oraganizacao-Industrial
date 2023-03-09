@@ -20,4 +20,4 @@ Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/or
 
 ## Bibliografia
 
-[SHY (1995)](https://antoniormacedo.github.io/Macroeconomia-I/Krueger%20(2017).pdf)
+[SHY (1995)](https://antoniormacedo.github.io/Oraganizacao-Industrial/Shy%20(1995).pdf)
