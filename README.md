@@ -1,4 +1,3 @@
-theme: minima
 # Monitoria de Oraganização Industrial
 Página destinada à monitoria da disciplina Organização Industrial da Faculdade de Economia, Administração e Contabilidade de Ribeirão preto. 
 <br>
@@ -11,7 +10,7 @@ Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/or
 <br>
 
 ## 13/03/2022 - Enquetes
-<!--[Horário da Monitoria](https://github.com/antoniormacedo/Oraganizacao-Industrial/discussions/3#discussion-4946257)-->
+[Horário da Monitoria](https://github.com/antoniormacedo/Oraganizacao-Industrial/discussions/4#discussion-4959189)
 
 <br>
 
