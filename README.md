@@ -5,12 +5,12 @@ Professor: Dr. Fernando Barros Jr
 <br>
 Monitor: Antonio Ricciardi Macedo
 <br>
-Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/organiza%C3%A7%C3%A3o-industrial-2022?authuser=0)](https://sites.google.com/view/fernandobarros/teaching/organiza%C3%A7%C3%A3o-industrial-2022?authuser=0))
+Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/organiza%C3%A7%C3%A3o-industrial-2022?authuser=0)](https://sites.google.com/view/fernandobarros/teaching/organiza%C3%A7%C3%A3o-industrial-2022?authuser=0)
 
 <br>
 
-## 13/03/2022 - Enquetes
-[Horário da Monitoria](https://github.com/antoniormacedo/Oraganizacao-Industrial/discussions/4#discussion-4959189)
+## Enquetes
+13/03/2022 - [Horário da Monitoria](https://github.com/antoniormacedo/Oraganizacao-Industrial/discussions/4#discussion-4959189)
 
 <br>
 
