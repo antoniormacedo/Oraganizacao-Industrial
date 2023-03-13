@@ -1,6 +1,5 @@
 # Monitoria de Oraganização Industrial
-Página destinada à monitoria da disciplina Organização Industrial da Faculdade de Economia, Administração e Contabilidade de Ribeirão preto. 
-<br>
+
 Professor: Dr. Fernando Barros Jr
 <br>
 Monitor: Antonio Ricciardi Macedo
