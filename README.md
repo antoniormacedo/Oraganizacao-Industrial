@@ -9,7 +9,7 @@ E-mail: antonio.macedo@usp.br
 Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/organiza%C3%A7%C3%A3o-industrial-2022?authuser=0)](https://sites.google.com/view/fernandobarros/teaching/organiza%C3%A7%C3%A3o-industrial-2022?authuser=0)
 <br>
 ### Monitoria de quarta-feira às 14h online.
-- Link da videochamada: https://meet.google.com/yct-jaqe-pve
+- Link da videochamada: [https://meet.google.com/yct-jaqe-pve](https://meet.google.com/yct-jaqe-pve)
 
 
 
