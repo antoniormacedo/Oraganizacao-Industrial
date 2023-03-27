@@ -11,8 +11,11 @@ Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/or
 ### Monitoria de quarta-feira às 14h online.
 - Link da videochamada: [https://meet.google.com/yct-jaqe-pve](https://meet.google.com/yct-jaqe-pve)
 
+<br> 
 
+## 29/03/2023 - Monitoria 1: Lista 1 exercícios 1 e 2.
 
+<br>
 ## Enquetes
 - 13/03/2022 - [Horário da Monitoria](https://forms.gle/vsAnMSZs3hc55fjRA) (entrem com o e-mail USP)
 - Com 50% dos votos, o resultado da enquete foi quarta-feira às 14h online. [Gráfico das respostas](https://user-images.githubusercontent.com/94052414/226107003-13227f03-2d85-4e6f-a950-0fcf33249a05.png)
