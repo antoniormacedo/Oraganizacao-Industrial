@@ -12,8 +12,8 @@ Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/or
 - Link da videochamada: [https://meet.google.com/yct-jaqe-pve](https://meet.google.com/yct-jaqe-pve)
 <br> 
 
-## 12/04/2023 - Monitoria 2: Resolução Lista 1.
-
+## 12/04/2023 - Monitoria 2: Resolução lista 1.
+[Resolução lista 1](https://antoniormacedo.github.io/Oraganizacao-Industrial/Lista%201%20-%20ARM.pdf)
 <br> 
 
 ## 29/03/2023 - Monitoria 1: Lista 1 exercícios 1 e 2.
