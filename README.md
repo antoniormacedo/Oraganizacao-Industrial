@@ -10,6 +10,9 @@ Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/or
 <br>
 ### Monitoria de quarta-feira às 14h online.
 - Link da videochamada: [https://meet.google.com/yct-jaqe-pve](https://meet.google.com/yct-jaqe-pve)
+<br> 
+
+## 12/04/2023 - Monitoria 2: Resolução Lista 1.
 
 <br> 
 
