@@ -13,7 +13,7 @@ Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/or
 <br> 
 
 ## 24/05/2023 - Monitoria 4: Resolução lista 3.
-[Resolução lista 3](https://antoniormacedo.github.io/Oraganizacao-Industrial/Lista%203%20-%20ARM.pdf)
+[Resolução lista 3 (versão 2)](https://antoniormacedo.github.io/Oraganizacao-Industrial/Lista%203%20-%20ARM.pdf)
 <br> 
 
 ## 26/04/2023 - Monitoria 3: Resolução lista 2.
