@@ -10,6 +10,10 @@ Página da disciplina: [https://sites.google.com/view/fernandobarros/teaching/or
 <br>
 ### Monitoria de quarta-feira às 14h online.
 - Link da videochamada: [https://meet.google.com/yct-jaqe-pve](https://meet.google.com/yct-jaqe-pve)
+<br>
+
+## 21/06/2023 - Monitoria 5: Resolução lista 4.
+[Resolução lista 4](https://antoniormacedo.github.io/Oraganizacao-Industrial/Lista%204%20-%20ARM.pdf)
 <br> 
 
 ## 24/05/2023 - Monitoria 4: Resolução lista 3.
